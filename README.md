@@ -8,6 +8,7 @@ We want to build a system which input is lego image and output the relevent pict
 *Example:
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/lego.jpg)
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/real.jpg)
+
 ##Search films/drama by Picture
 *Motivation:
 Sometimes we watch TV, and see some partial of interesting movie or drama. Maybe there are beautiful actress or handsome actor in the film/drama. We want to know what this films/dramas are in order to find actors or movie information in time. 
