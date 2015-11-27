@@ -6,6 +6,7 @@ Lego are the most famous toys around the world. Everything can be built by lego,
 * Implement:
 We want to build a system which input is lego image and output the relevent picture in the real world.
 * Example:
+
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/lego.jpg)
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/real.jpg)
 
@@ -15,5 +16,6 @@ Sometimes we watch TV, and see some partial of interesting movie or drama. Maybe
 * Implement:
 Using picture of film/drama to find out films/drama which belong to this picture.
 * Example:
+
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/pic.jpg)
 ![image](https://raw.githubusercontent.com/bostenkg5/MMAI_Final/master/himym.jpeg)
